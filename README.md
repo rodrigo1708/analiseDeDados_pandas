@@ -1,4 +1,3 @@
-# analiseDeDados_pandas
- Análise de dados utilizando a biblioteca Pandas e Matplotlib com python
+# Análise de dados
+ Projeto da Digital Innovation One para análise de dados utilizando as bibliotecas Pandas e Matplotlib com python.
 
- Testando a atualização do arquivo README direto pelo visual studio e github desktop
